@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Font-End Engineer<br>💬 If there are any errors in my code, please suggest that I can improve it.<br>⚡ Fun fact : <br>I'm learning Japanese so that I can work in Japan in the future.   =D<br>はじめまして。<br>わたしは、ニャットです。じゅうはっさいです。<br>ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。<br<br>どぞ、ぞろしく、おねがいします。どぞ、ぞろしく、おねがいします。
+🌱 I’m currently learning Font-End Engineer<br>💬 If there are any errors in my code, please suggest that I can improve it.<br>⚡ Fun fact : <br>I'm learning Japanese so that I can work in Japan in the future.   =D<br>はじめまして。<br>わたしは、ニャットです。じゅうはっさいです。<br>ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。<br>どぞ、ぞろしく、おねがいします。
 
 
 ## 🌐 Socials:
