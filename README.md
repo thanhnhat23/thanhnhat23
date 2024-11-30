@@ -31,7 +31,6 @@
 </p>
 
 <h3 align="left">📊 My statistics:<h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhnhat23&show_icons=true&locale=en&layout=compact" alt="thanhnhat23" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnhat23&show_icons=true&locale=en" alt="thanhnhat23" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhat23&" alt="thanhnhat23" /></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
