@@ -20,8 +20,8 @@
 <br> Under the pen is the future
 <br> Bowing the head is the ocean
 <br> Raising the head is the future" </strong>
-<br> In this world, no choice is right from the beginning,
-<br> we are just trying to strive to make the initial choice right.
+<br> *`In this world, no choice is right from the beginning,`*
+<br> *`we are just trying to strive to make the initial choice right.`*
 
 - <strong>💁 Not special, not talented, not status but I want to see <br> how far an ordinary person with big dreams can go.</strong>
 <br> <p align="center"> - Simply *`野良`* - </p>
