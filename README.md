@@ -23,17 +23,16 @@
 <a href="https://instagram.com/_tnht.per06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tnht.per06" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,bootstrap,css,figma,gitlab,github,html,js,ps,pr,py,react,tailwind,ts" />
   </a>
 </p>
 
+<h3 align="left">My statistics:<h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhnhat23&show_icons=true&locale=en&layout=compact" alt="thanhnhat23" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnhat23&show_icons=true&locale=en" alt="thanhnhat23" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhat23&" alt="thanhnhat23" /></p>
 
 ## 🏆 GitHub Trophies
