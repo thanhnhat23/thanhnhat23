@@ -1,11 +1,11 @@
-[![MasterHead](https://i.pinimg.com/originals/58/a3/48/58a3489b4e73faae781a78e842c5a21a.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/e8/07/ca/e807ca4254d0c1553b16ae33dd5d4031.gif)](https://github.com/thanhnhat23)
 <h1 align="center">Hi 👋, I'm ThanhNhat</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="wallpaper" width="400" src="https://i.pinimg.com/736x/d2/12/8f/d2128fcc984f12dd9e64708a02433655.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhnhat23&label=Profile%20views&color=0e75b6&style=flat" alt="thanhnhat23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@thanhnhat06" target="blank"><img src="https://img.shields.io/twitter/follow/@thanhnhat06?logo=twitter&style=for-the-badge" alt="@thanhnhat06" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thanhnhat06" target="blank"><img src="https://img.shields.io/twitter/follow/thanhnhat06?logo=twitter&style=for-the-badge" alt="thanhnhat06" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS,JavaScript,Python,TypeScript,Bootstrap and Tailwind**
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@thanhnhat06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thanhnhat06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thanh-nh%e1%ba%adt-%e2%9c%93-533961338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thanh-nh%e1%ba%adt-%e2%9c%93-533961338/" height="30" width="40" /></a>
-<a href="https://fb.com/thanh nhật (tnhat)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanh nhật (tnhat)" height="30" width="40" /></a>
-<a href="https://instagram.com/_tnhat.per06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tnhat.per06" height="30" width="40" /></a>
+<a href="https://twitter.com/thanhnhat06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanhnhat06" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thanh-nhật-✓-533961338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanh-nhật-✓-533961338" height="30" width="40" /></a>
+<a href="https://fb.com/t.nhat.231026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="t.nhat.231026" height="30" width="40" /></a>
+<a href="https://instagram.com/_tnht.per06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tnht.per06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,7 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnhat23&show_icons=true&locale=en" alt="thanhnhat23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhat23&" alt="thanhnhat23" /></p>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thanhnhat23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
