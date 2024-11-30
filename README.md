@@ -26,7 +26,7 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,bootstrap,css,figma,gitlab,github,html,js,ps,pr,py,react,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr,bootstrap,figma,gitlab,github,html,css,js,react,tailwind,ts,py" />
   </a>
 </p>
 
