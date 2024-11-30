@@ -15,10 +15,10 @@
 
 - ⚡ Fun fact: <br>😁 Solo-er　*`野良`* <br>I'm learning Japanese so that I can work in Japan in the future. =D <br>*`はじめまして。 わたしは、ニャットです。じゅうはっさいです。`* <br> *`ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。`* <br>*`どぞ、ぞろしく、おねがいします. `*
 
-- Not special, not talented, not status <br> but I want to see how far an ordinary person with big dreams can go.
+- <strong>💁 Not special, not talented, not status <br> but I want to see how far an ordinary person with big dreams can go.</strong>
 <br> - Simply *`野良`* -
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📞 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thanhnhat06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanhnhat06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thanh-nhật-✓-533961338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanh-nhật-✓-533961338" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 <a href="https://instagram.com/_tnht.per06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tnht.per06" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">🛠️ Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,pr,bootstrap,figma,gitlab,github,html,css,js,react,tailwind,ts,py" />
