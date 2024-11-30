@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **luongthanhnhat567@gmail.com**
 
-- ⚡ Fun fact: <br>**I'm learning Japanese so that I can work in Japan in the future. =D **<br>*`はじめまして。 わたしは、ニャットです。じゅうはっさいです。ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。どぞ、ぞろしく、おねがいします. `*
+- ⚡ Fun fact: <br>I'm learning Japanese so that I can work in Japan in the future. =D <br>*`はじめまして。 わたしは、ニャットです。じゅうはっさいです。`* <br> *`ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。どぞ、ぞろしく、おねがいします. `*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
