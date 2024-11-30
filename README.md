@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact: <br>😁 Solo-er　*`野良`* <br>I'm learning Japanese so that I can work in Japan in the future. =D <br>*`はじめまして。 わたしは、ニャットです。じゅうはっさいです。`* <br> *`ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。`* <br>*`どぞ、ぞろしく、おねがいします. `*
 
+- Not special, not talented, not status <br> but I want to see how far an ordinary person with big dreams can go.
+<br> - Simply *`野良`* -
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thanhnhat06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanhnhat06" height="30" width="40" /></a>
