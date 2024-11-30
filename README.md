@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/thanhnhat06" target="blank"><img src="https://img.shields.io/twitter/follow/thanhnhat06?logo=twitter&style=for-the-badge" alt="thanhnhat06" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS,JavaScript,Python,TypeScript,Bootstrap and Tailwind**
+- 🌱 I’m currently learning: **ReactJS,JavaScript,Python,TypeScript,Bootstrap and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanhnhat23](https://github.com/thanhnhat23)
 
-- 📫 How to reach me **luongthanhnhat567@gmail.com**
+- 📫 How to reach me: **luongthanhnhat567@gmail.com**
 
-- ⚡ Fun fact **I'm learning Japanese so that I can work in Japan in the future. =D はじめまして。 わたしは、ニャットです。じゅうはっさいです。 ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。 どぞ、ぞろしく、おねがいします。**
+- ⚡ Fun fact: <br>**I'm learning Japanese so that I can work in Japan in the future. =D <br>はじめまして。 わたしは、ニャットです。じゅうはっさいです。 <br>ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。 <br>どぞ、ぞろしく、おねがいします。**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
