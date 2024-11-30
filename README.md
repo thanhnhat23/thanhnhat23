@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact: <br>😁 Solo-er　*`野良`* <br>I'm learning Japanese so that I can work in Japan in the future. =D <br>*`はじめまして。 わたしは、ニャットです。じゅうはっさいです。`* <br> *`ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。`* <br>*`どぞ、ぞろしく、おねがいします. `*
 
-- <strong>💁 Not special, not talented, not status <br> but I want to see how far an ordinary person with big dreams can go.</strong>
-<br> - Simply *`野良`* -
+- <strong>💁 Not special, not talented, not status but I want to see how far an ordinary person with big dreams can go.</strong>
+<br> <p align="right"> - Simply *`野良`* - </p>
 
 <h3 align="left">📞 Connect with me:</h3>
 <p align="left">
