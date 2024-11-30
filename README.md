@@ -31,6 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnhat23&show_icons=true&locale=en" alt="thanhnhat23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhat23&" alt="thanhnhat23" /></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thanhnhat23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
