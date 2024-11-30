@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e8/07/ca/e807ca4254d0c1553b16ae33dd5d4031.gif)](https://github.com/thanhnhat23)
+![MasterHead](https://i.pinimg.com/originals/e8/07/ca/e807ca4254d0c1553b16ae33dd5d4031.gif)
 <h1 align="center">Hi 👋, I'm ThanhNhat</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="wallpaper" width="400" src="https://i.pinimg.com/736x/d2/12/8f/d2128fcc984f12dd9e64708a02433655.jpg">
