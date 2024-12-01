@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **luongthanhnhat567@gmail.com**
 
-- ⚡ Fun fact: <br>😁 Solo-er　*`野良`* <br> I'm learning Japanese so that I can work in Japan in the future. =D <br>*`はじめまして。 わたしは、ニャットです。じゅうはっさいです。`* <br> *`ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。`* <br>*`どぞ、ぞろしく、おねがいします. `*
+- ⚡ Fun fact: <br>😁 Solo-er　*`野良`* <br>*`はじめまして。 わたしは、ニャットです。じゅうはっさいです。`* <br> *`ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。`* <br>*`どぞ、ぞろしく、おねがいします. `*
 
 - Once read somewhere: <strong>
 <br> Outside the window is the landscape
