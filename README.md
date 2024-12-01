@@ -54,4 +54,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thanhnhat23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+## PINED
+![](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=github-readme-stats&theme=tokyonight)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
