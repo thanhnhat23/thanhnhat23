@@ -55,6 +55,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=thanhnhat23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## PINED
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=github-readme-stats&theme=tokyonight)](https://github.com/thanhnhat23/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=projects&theme=tokyonight)](https://github.com/thanhnhat23/project)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
