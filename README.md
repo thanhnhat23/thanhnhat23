@@ -54,8 +54,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thanhnhat23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-## PINED
+## 🏆 Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=project&theme=tokyonight)](https://github.com/thanhnhat23/project)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=thanhnhat23&theme=tokyonight)](https://github.com/thanhnhat23/thanhnhat23)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
