@@ -5,8 +5,8 @@ console.log("Hello World");
 // alert("Hello World");
 
 // Variable
-let watashi = "ニャット" // String
-let さい = 18 // Number
+let watashi = "ニャット"; // String
+let さい = 18; // Number
 console.log(watashi,'\n', さい);
 
 // Phân biệt kiểu dấu =
@@ -38,7 +38,7 @@ console.log(person.firstName, person.lastName, person['nameTag']);
 
 // Nháy chéo
 let text = `Tac dung nhung gi o trong day
-thi in ra man hinh se y nhu the ` // Nên sài thay cho "" và ''
+thi in ra man hinh se y nhu the `; // Nên sài thay cho "" và ''
 console.log(text);
 
 // Lưu ý Strings
@@ -51,7 +51,7 @@ let vd4 = 15 * '10' // => 150 // Kiểu number
 console.log(vd1, vd2, vd3, vd4);
 
 // Xác định 1 varriable
-let なんさい = `わたしは, ${10 + 8} さいです。`
+let なんさい = `わたしは, ${10 + 8} さいです。`;
 console.log(なんさい);
 
 // Array
@@ -60,7 +60,7 @@ let obj = {}; // Object empty
 let ao = [
     { firstName: "Thanh", lastName: "Nhat" },
     { nameTag: "野良", age: 18 }
-]
+];
 console.log(ao[1].nameTag);
 
 // For loops
@@ -91,13 +91,27 @@ while (!flag) {
     k++;
     if ( k === 3 ) flag = true;
 }
+
+// Block and Global
+// Biến nội bộ
+for (let block = 0; block < 2; block++) {
+    console.log("Kết quả block: ", block);
+}
+// console.log(block); // Lập tức sẽ bị báo lỗi 
+// Biến cục bộ
+let global = "Kq";
+for ( let g = 0; g < 2; g++) {
+    console.log("Kết quả global: ", global, g);
+}
+console.log(global); // Vẫn ra kết quả bth
+
 // Break/Continue
 let bre = 0;
-let cont = -1;
+let cont = -1;  
 while (bre < arr.length) {
     if (arr[bre] === 'React') break;
     // Dừng vòng lặp
-    console.log("Lang: ", arr[bre]);
+    console.log(arr[bre]);
     bre++;
 }
 while (cont < arr.length) {
@@ -157,6 +171,21 @@ switch (new Date().getDay()) { // Hàm tính ngày hôm nay
 //             // Code return
 //         }
 // } 
+
+// Function
+function sum(a, b) {
+    // a + b; // Không trả về giá trị
+    return a + b; // Trả về kq // Nếu không return sẽ bị undefined
+}
+console.log("My name is:", sum('Thanh', 'Nhat')); // Viết function luôn nằm ở trên
+// VD function thực tế:
+// function disableSound() {
+//     let audio = document.getElementById("music");
+//     if (audio) {
+//         audio.muted = false;
+//         audio.pause();
+//     }
+// } // Bật tắt nhạc khi nhấn vào id music
 
 //---------------------------------------OOPS----------------------------------------------------//
 
