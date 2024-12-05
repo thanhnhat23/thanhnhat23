@@ -43,11 +43,11 @@
 
 <h3 align="left">📊 My statistics:<h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnhat23&show_icons=true&locale=en&theme=tokyonight&rank_icon=github" alt="thanhnhat23" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhat23&theme=tokyonight" alt="thanhnhat23" /></p>
-<a align="right" href="https://github.com/anuraghazra/github-readme-stats">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhat23&theme=tokyonight" alt="thanhnhat23" /></p>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thanhnhat23&theme=tokyonight&layout=compact" alt="thanhnhat23&#39;野良's stats">
 </a>
-  
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thanhnhat23&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
