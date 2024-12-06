@@ -60,5 +60,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=resizeImage&theme=tokyonight)](https://github.com/thanhnhat23/resizeImage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=convertPDFtoDocx&theme=tokyonight)](https://github.com/thanhnhat23/convertPDFtoDocx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=createQRcode&theme=tokyonight)](https://github.com/thanhnhat23/createQRcode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=thanhnhat23&theme=tokyonight)](https://github.com/thanhnhat23/thanhnhat23)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
