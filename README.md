@@ -1,4 +1,4 @@
-![bg](https://github.com/user-attachments/assets/bd95dc09-da61-4a53-a093-5cfe15dce026)
+![bg](https://github.com/user-attachments/assets/4552bae8-e3a6-4702-8734-3427b21a65b2)
 <h1 align="center">Hi 👋, I'm ThanhNhat</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="wallpaper" width="400" src="https://i.pinimg.com/736x/d2/12/8f/d2128fcc984f12dd9e64708a02433655.jpg">
