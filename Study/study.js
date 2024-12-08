@@ -30,11 +30,14 @@ let person = {
     firstName: "Thanh", 
     lastName: "Nhat",
     nameTag: "none", 
-    age: 18
+    age: 18,
+    getAge: function() {
+        return this.age;
+    } // This is method
 };
 let なまえ = 'nameTag';
 person[なまえ] = '野良';
-console.log(person.firstName, person.lastName, person['nameTag']);
+console.log(person.firstName, person.lastName, person['nameTag'], person.getAge());
 
 // Nháy chéo
 let text = `Tac dung nhung gi o trong day
@@ -187,5 +190,50 @@ console.log("My name is:", sum('Thanh', 'Nhat')); // Viết function luôn nằm
 //     }
 // } // Bật tắt nhạc khi nhấn vào id music
 
-//---------------------------------------OOPS----------------------------------------------------//
+// Arrow function
+hello = () => {
+    return "JS + React";
+}
+console.log(hello());
+// Thường dùng nhiều trong react
 
+// Callback & setTimeout & setInterval
+print = (mess) => {
+    console.log("Result: ", mess);
+}
+sum = (a, b, callback) => {
+    result = a + b;
+    setTimeout(() => {
+        callback(result);
+    }, 5000) // Sau 3s thì sẽ print ra kết quả
+    let d = 0;
+    let time = setInterval(() => {
+        callback(result);
+        d++;
+        if (d === 3) {
+            clearInterval(time);
+        } // Clear vòng lặp khi bộ đếm = 3
+    }, 2000) // Lặp lại kết quả sau 2s vô hạn lần
+}
+sum('Thanh', 'Nhat', print);
+
+//---------------------------------------OOP----------------------------------------------------//
+// HTML
+// <button class="button btn" type="button" 
+// onclick="enbaleCheckday()">Click me to display Date and Time</button>
+// <p id="demo"></p>
+function enbaleCheckDay() {
+    document.getElementById('demo').innerHTML = Date()
+} // Khi ấn vào button sẽ in ra ngày và giờ hôm nay
+function printHTML() {
+    document.getElementById("demo").innerHTML = "Source by ThanhNhat野良";
+}
+function changeFontSize() {
+    document.getElementById("demo").style.fontSize = "35px";
+}
+function changeFontColor() {
+    document.getElementById("demo").style.color = "red";
+}
+function changeFontFamily() {
+    document.getElementById("demo").style.fontFamily = "Jockey One";
+}
