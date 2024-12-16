@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **luongthanhnhat567@gmail.com**
 
-- ⚡ Fun fact: <br>😁 Solo-er　*`野良`* <br>*`はじめまして。 わたしは、ニャットです。じゅうはっさいです。`* <br> *`ダナンこうかだいがくのじょほうぎじゅつぶのいちねんせいです。`* <br>*`どぞ、ぞろしく、おねがいします. `*
+- ⚡ Fun fact: <br>😁 Solo-er　*`野良`* <br>*`はじめまして。 私は、ニャットです。じゅうはっさいです。`* <br> *`ダナンこうか大学のじょうほうぎじゅつがくぶの一年生です`* <br>*`どぞ、ぞろしく、おねがいします. `*
 
 - Once read somewhere: <strong>
 <br> Outside the window is the landscape
