@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thanhnhat06" target="blank"><img src="https://img.shields.io/twitter/follow/thanhnhat06?logo=twitter&style=for-the-badge" alt="thanhnhat06" /></a> </p>
 
-- 🌱 I’m currently learning: **<br>React,JavaScript,Python,TypeScript,Bootstrap and Tailwind**
+- 🌱 I’m currently learning: **<br>React,JavaScript,Python,Bootstrap and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanhnhat23](https://github.com/thanhnhat23)
 
@@ -37,7 +37,7 @@
 <h3 align="left">🛠️ Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ps,pr,bootstrap,figma,gitlab,github,html,css,js,react,tailwind,ts,py" />
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr,bootstrap,figma,gitlab,github,html,css,js,react,tailwind,py" />
   </a>
 </p>
 
