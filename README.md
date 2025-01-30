@@ -39,7 +39,7 @@
 <h3 align="left">🛠️ Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,gitlab,github,html,css,js,react,tailwind,py,blender,c,c++,nodejs,react,redux,sass,firebase,ts,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,gitlab,github,blender,vscode,html,css,sass,tailwind,js,ts,nodejs,nextjs,vite,react,redux,py,c,c++,firebase" />
   </a>
 </p>
 
