@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/0fe1d9d2-992c-489a-8038-7c74ac4139d4" alt="image" />
 </p>
 <h1 align="center">Hi 👋, I'm ThanhNhat</h1>
-<h3 align="center">Front-end developer intern and aiming for Fullstack from Vietnam</h3>
+<h3 align="center">Front-end developer intern and aiming for Full-stack from Vietnam</h3>
 <img align="right" alt="wallpaper" width="400" src="https://i.pinimg.com/736x/0e/72/b8/0e72b856f364f2d69422c01f1b594ea6.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhnhat23&label=Profile%20views&color=0e75b6&style=flat" alt="thanhnhat23" /> </p>
