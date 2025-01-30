@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/0fe1d9d2-992c-489a-8038-7c74ac4139d4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fe1d9d2-992c-489a-8038-7c74ac4139d4" alt="image" />
+</p>
 <h1 align="center">Hi 👋, I'm ThanhNhat</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="wallpaper" width="400" src="https://i.pinimg.com/736x/2d/97/00/2d97009d6c5dcc66223f1102377d2b01.jpg">
