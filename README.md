@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/thanhnhat06" target="blank"><img src="https://img.shields.io/twitter/follow/thanhnhat06?logo=twitter&style=for-the-badge" alt="thanhnhat06" /></a> </p>
 
-- 🌱 I’m currently learning: **<br>ReactJs, JavaScript, TypeScript, Python, HTML/CSS/SASS, Tailwind Next.js and Node.js**
+- 🌱 I’m currently learning: **<br>ReactJs, Redux, JavaScript, TypeScript, Python, HTML/CSS/SASS, Tailwind, Vite, Next.js and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanhnhat23](https://github.com/thanhnhat23)
 
@@ -39,7 +39,7 @@
 <h3 align="left">🛠️ Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ps,pr,bootstrap,figma,gitlab,github,html,css,js,react,tailwind,py" />
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,gitlab,github,html,css,js,react,tailwind,py,blender,c,c++,nodejs,react,redux,sass,firebase,ts,vite,vscode" />
   </a>
 </p>
 
