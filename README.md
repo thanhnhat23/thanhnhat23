@@ -26,7 +26,7 @@
 <br> *`we are just trying to strive to make the initial choice right.`*
 
 - <strong>💁 Not special, not talented, not status but I want to see <br> how far an ordinary person with big dreams can go.</strong>
-<br> <p align="center"> - Simply *`野良`* - </p>
+<br> <p align="center"> - Simply I'm *`野良`* - </p>
 
 <h3 align="left">📞 Connect with me:</h3>
 <p align="left">
