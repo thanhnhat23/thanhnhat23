@@ -59,7 +59,7 @@
 
 ## 🏆 Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=libraryGames&theme=tokyonight)](https://github.com/thanhnhat23/libraryGames)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=sortFolder&theme=tokyonight)](https://github.com/thanhnhat23/LightNovelTrans)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=LightNovelTrans&theme=tokyonight)](https://github.com/thanhnhat23/LightNovelTrans)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=resizeImage&theme=tokyonight)](https://github.com/thanhnhat23/resizeImage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=convertPDFtoDocx&theme=tokyonight)](https://github.com/thanhnhat23/convertPDFtoDocx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=createQRcode&theme=tokyonight)](https://github.com/thanhnhat23/createQRcode)
