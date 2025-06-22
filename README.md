@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **luongthanhnhat567@gmail.com**
 
-- ⚡ Fun fact: <br>😁*`野良`* <br>*`私は、 ルオン・タイン・ニャットです。１８さいです。`* <br> *`ダナンこうか大学の情報技術学部の一年生です`* <br>*`夢は日本で働くことです。`* <br>*`自然を観察するのが好きです`*
+- ⚡ Fun fact: <br>😁*`野良`* <br>*`私は、 ルオン・タイン・ニャットです。１８さいです。`* <br> *`ダナン工科大学の情報技術学部の一年生です`* <br>*`夢は日本で働くことです。`* <br>*`自然を観察するのが好きです`*
 
 - Once read somewhere: <strong>
 <br> Outside the window is the landscape
