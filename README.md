@@ -45,10 +45,13 @@
 </p>
 
 <h3 align="left">📊 My statistics:<h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnhat23&show_icons=true&locale=en&theme=tokyonight&rank_icon=github" alt="thanhnhat23" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhat23&theme=tokyonight" alt="thanhnhat23" /></p>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thanhnhat23&theme=tokyonight&layout=compact" alt="thanhnhat23&#39;野良's stats">
+<!-- <p>&nbsp;<img align="center" src="https://thanhnhat-stats.vercel.app/api?username=thanhnhat23&show_icons=true&locale=en&theme=tokyonight&rank_icon=github" alt="thanhnhat23" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhat23&theme=tokyonight" alt="thanhnhat23" /></p> -->
+  
+![https://githubcard.com](https://githubcard.com/thanhnhat23.svg?d=jUG3EL_k)
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://thanhnhat-stats.vercel.app/api/wakatime?username=thanhnhat23&theme=tokyonight&layout=compact" />
 </a>
 
 ## 🏆 GitHub Trophies
@@ -58,11 +61,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=thanhnhat23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 🏆 Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=libraryGames&theme=tokyonight)](https://github.com/thanhnhat23/libraryGames)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=LightNovelTrans&theme=tokyonight)](https://github.com/thanhnhat23/LightNovelTrans)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=resizeImage&theme=tokyonight)](https://github.com/thanhnhat23/resizeImage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=convertPDFtoDocx&theme=tokyonight)](https://github.com/thanhnhat23/convertPDFtoDocx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=createQRcode&theme=tokyonight)](https://github.com/thanhnhat23/createQRcode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhnhat23&repo=thanhnhat23&theme=tokyonight)](https://github.com/thanhnhat23/thanhnhat23)
+[![Readme Card](https://thanhnhat-stats.vercel.app/api/pin/?username=thanhnhat23&repo=libraryGames&theme=tokyonight)](https://github.com/thanhnhat23/libraryGames)
+[![Readme Card](https://thanhnhat-stats.vercel.app/api/pin/?username=thanhnhat23&repo=LightNovelTrans&theme=tokyonight)](https://github.com/thanhnhat23/LightNovelTrans)
+[![Readme Card](https://thanhnhat-stats.vercel.app/api/pin/?username=thanhnhat23&repo=PBL2_Garage-Management&theme=tokyonight)](https://github.com/thanhnhat23/resizeImage)
+[![Readme Card](https://thanhnhat-stats.vercel.app/api/pin/?username=thanhnhat23&repo=PBL3_Cinema-Management&theme=tokyonight)](https://github.com/thanhnhat23/convertPDFtoDocx)
+[![Readme Card](https://thanhnhat-stats.vercel.app/api/pin/?username=thanhnhat23&repo=DashboardServer_Minecraft&theme=tokyonight)](https://github.com/thanhnhat23/createQRcode)
+[![Readme Card](https://thanhnhat-stats.vercel.app/api/pin/?username=thanhnhat23&repo=thanhnhat23&theme=tokyonight)](https://github.com/thanhnhat23/thanhnhat23)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
