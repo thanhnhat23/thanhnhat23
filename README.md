@@ -9,7 +9,7 @@
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
 
 <div>
-  <img align="right" alt="wallpaper" width="400" src="https://github.com/user-attachments/assets/854db06e-ecf5-4213-89cc-eeebb0ab6f4e">
+  <img align="right" alt="wallpaper" width="400" src="https://github.com/user-attachments/assets/28ada8de-0225-47ae-a6bd-8bcd34934cdb">
   
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=thanhnhat23&label=Profile%20views&color=000000&style=for-the-badge" alt="thanhnhat23" />
