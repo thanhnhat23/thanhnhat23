@@ -2,6 +2,7 @@
   <img src="https://i.pinimg.com/1200x/65/f6/5b/65f65bf833ab4709031be0fb3c1b5ed0.jpg" alt="image" />
 </p>
 <h1 align="center">🌌 Welcome to my universe!</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Hello%20I'm%20ThanhNhat%20or%20you%20can%20call%20me%20NekoNora-black?style=for-the-badge&logo=pipecat&logoColor=white&color=black" />
 </p>
@@ -11,14 +12,16 @@
 <div>
   <img align="right" alt="wallpaper" width="400" src="https://github.com/user-attachments/assets/28ada8de-0225-47ae-a6bd-8bcd34934cdb">
   
-  <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=thanhnhat23&label=Profile%20views&color=000000&style=for-the-badge" alt="thanhnhat23" />
-  </p>
+  <div align="left">
+    <a href="https://github.com/thanhnhat23"> 
+      <img src="https://komarev.com/ghpvc/?username=thanhnhat23&label=Profile%20views&color=000000&style=for-the-badge" alt="thanhnhat23" />
+    </p>
+    <a href="https://www.instagram.com/milky.wayyy_06/" target="blank">
+      <img src="https://img.shields.io/badge/%40milky.wayyy_06-black?style=for-the-badge&logo=instagram&logoColor=white&label=Follow%20me&color=black&labelColor=black" />
+    </a>
+  </div>
 
   <div align="left">
-      <a href="https://www.instagram.com/milky.wayyy_06/" target="blank">
-        <img src="https://img.shields.io/badge/%40milky.wayyy_06-black?style=for-the-badge&logo=instagram&logoColor=white&label=Follow%20me&color=black&labelColor=black" />
-      </a>
       <a href="https://github.com/thanhnhat23">
         <img src="https://img.shields.io/github/followers/thanhnhat23?style=for-the-badge&logo=github&logoColor=white&label=Follower&labelColor=black&color=black" />
       </a>
