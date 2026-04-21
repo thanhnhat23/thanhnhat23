@@ -7,10 +7,12 @@
   <img src="https://img.shields.io/badge/Hello%20I'm%20ThanhNhat%20or%20you%20can%20call%20me%20NekoNora-black?style=for-the-badge&logo=pipecat&logoColor=white&color=black" />
 </p>
 
-<h3 align="center">Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&letterSpacing=wide&duration=5000&pause=2000&color=49C8F7&center=true&vCenter=true&multiline=false&width=1200&height=50&lines=Full+Stack+Developer+%E2%9C%A8;Welcome+to+my+profile+%F0%9F%AB%82" alt="Typing SVG" />
+</a>
 
-<div>
-  <img align="right" alt="wallpaper" width="400" src="https://github.com/user-attachments/assets/28ada8de-0225-47ae-a6bd-8bcd34934cdb">
+<div>  
+  <img align="right" alt="wallpaper" width="100" src="https://github.com/user-attachments/assets/28ada8de-0225-47ae-a6bd-8bcd34934cdb">
   
   <div align="left">
     <a href="https://github.com/thanhnhat23"> 
@@ -30,14 +32,32 @@
       </a>
   </div>
 </div>
-  
+
   ---
+ 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,30:313244,60:cba6f7,100:89b4fa&height=260&section=header&text=Thanh%20Nhat&fontSize=75&fontColor=cdd6f4&fontAlignY=40&fontStyle=bold&desc=A%20dreamer%20is%20one%20who%20can%20only%20find%20his%20way%20by%20moonlight.&descSize=19&descAlignY=63&descColor=a6adc8&animation=fadeIn" />
   
-  ### 💻 About Me
+  ### 🧑‍💻 `Who am I?`
+  ```ts
+  const milkywayyy: Developer = {
+    name         : "Thanh Nhat",
+    alias        : "NekoNora",
+    location     : "Da Nang, Viet Nam",
   
-  * 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Typescript**, and **React**.
-  * 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
-  * 🤝 **Collaborations:** Open to discussions on **AI/ML**, **Web3**, and **Blockchain**.
+    roles        : ["Full Stack Developer", "Software Enginer"],
+    currentFocus : ["Web Development", "DevOps", "Component Systems"],
+  
+    stack: {
+      frontend   : ["React", "TypeScript", "Tailwind CSS"],
+      backend    : ["Nodejs", "Nestjs", "Go", ".NET"]
+      toolchain  : ["Git", "GitHub", "VS Code", "Postman", "Docker"],
+    },
+  
+    quote        : "Ordinary soul, extraordinary goals. Only those who dare to fail greatly can ever achieve greatly.",
+    goal         : "Build products that are beautiful, fast, and human-centered.",
+    openTo       : ["Collaboration", "Open Source"],
+  };
+  ```
 </div>
 
 <br> 
@@ -100,5 +120,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%AB%80&fontSize=22&fontColor=cdd6f4&fontAlignY=65&animation=fadeIn"/>
 </div>
