@@ -35,7 +35,7 @@
 
   ---
  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,30:313244,60:cba6f7,100:89b4fa&height=260&section=header&text=Thanh%20Nhat&fontSize=75&fontColor=cdd6f4&fontAlignY=40&fontStyle=bold&desc=A%20dreamer%20is%20one%20who%20can%20only%20find%20his%20way%20by%20moonlight.&descSize=19&descAlignY=63&descColor=a6adc8&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Thanh%20Nhat&fontSize=75&fontColor=cdd6f4&fontAlignY=40&fontStyle=bold&desc=A%20dreamer%20is%20one%20who%20can%20only%20find%20his%20way%20by%20moonlight.&descSize=19&descAlignY=63&descColor=a6adc8&animation=fadeIn" />
   
   ### 🧑‍💻 `Who am I?`
   ```ts
