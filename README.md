@@ -92,11 +92,11 @@
 <div align="center"> 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhnhat23&show_icons=true&theme=dark&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=thanhnhat23&show_icons=true&theme=dark&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnhat23&layout=compact&theme=dark&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thanhnhat23&layout=compact&theme=dark&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
   <br>
